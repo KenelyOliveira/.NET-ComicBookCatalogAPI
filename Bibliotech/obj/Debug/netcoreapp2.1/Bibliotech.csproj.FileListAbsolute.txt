@@ -1,0 +1,14 @@
+C:\Users\kenely.oliveira\source\repos\Bibliotech\Bibliotech\obj\Debug\netcoreapp2.1\Bibliotech.csproj.CoreCompileInputs.cache
+C:\Users\kenely.oliveira\source\repos\Bibliotech\Bibliotech\obj\Debug\netcoreapp2.1\Bibliotech.RazorAssemblyInfo.cache
+C:\Users\kenely.oliveira\source\repos\Bibliotech\Bibliotech\obj\Debug\netcoreapp2.1\Bibliotech.RazorAssemblyInfo.cs
+C:\Users\kenely.oliveira\source\repos\Bibliotech\Bibliotech\obj\Debug\netcoreapp2.1\Bibliotech.AssemblyInfoInputs.cache
+C:\Users\kenely.oliveira\source\repos\Bibliotech\Bibliotech\obj\Debug\netcoreapp2.1\Bibliotech.AssemblyInfo.cs
+C:\Users\kenely.oliveira\source\repos\Bibliotech\Bibliotech\obj\Debug\netcoreapp2.1\Bibliotech.csprojAssemblyReference.cache
+C:\Users\kenely.oliveira\source\repos\Bibliotech\Bibliotech\bin\Debug\netcoreapp2.1\Bibliotech.deps.json
+C:\Users\kenely.oliveira\source\repos\Bibliotech\Bibliotech\bin\Debug\netcoreapp2.1\Bibliotech.runtimeconfig.json
+C:\Users\kenely.oliveira\source\repos\Bibliotech\Bibliotech\bin\Debug\netcoreapp2.1\Bibliotech.runtimeconfig.dev.json
+C:\Users\kenely.oliveira\source\repos\Bibliotech\Bibliotech\bin\Debug\netcoreapp2.1\Bibliotech.dll
+C:\Users\kenely.oliveira\source\repos\Bibliotech\Bibliotech\bin\Debug\netcoreapp2.1\Bibliotech.pdb
+C:\Users\kenely.oliveira\source\repos\Bibliotech\Bibliotech\obj\Debug\netcoreapp2.1\Bibliotech.RazorTargetAssemblyInfo.cache
+C:\Users\kenely.oliveira\source\repos\Bibliotech\Bibliotech\obj\Debug\netcoreapp2.1\Bibliotech.dll
+C:\Users\kenely.oliveira\source\repos\Bibliotech\Bibliotech\obj\Debug\netcoreapp2.1\Bibliotech.pdb
